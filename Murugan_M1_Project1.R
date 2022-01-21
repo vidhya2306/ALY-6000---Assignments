@@ -51,4 +51,4 @@ dataset <- read.csv("Student.csv")
 colnames(dataset)
 
 #15. Commit your code in your github/gitlab repo
-#github link:https://github.com/vidhya2306/Module-1-Assignment/blob/main/Assignment%201.R
+#github link: https://github.com/vidhya2306/Module-1-Assignment/blob/main/Murugan_M1_Project1.R
