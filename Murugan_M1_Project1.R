@@ -45,9 +45,10 @@ str(icSales)
 summary(icSales)
 
 #13. Import the dataset Student.csv
-dataset <- read.csv("C:/Users/DELL/Desktop/Student.csv")
+dataset <- read.csv("Student.csv")
 
 #14. Display only the variable names of the Student.csv dataset
 colnames(dataset)
 
 #15. Commit your code in your github/gitlab repo
+#github link:https://github.com/vidhya2306/Module-1-Assignment/blob/main/Assignment%201.R
