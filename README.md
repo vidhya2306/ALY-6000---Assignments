@@ -12,5 +12,5 @@ Descriptive statistics
 ## Murugan_M2_Project2
 Displaying top and bottom n rows in a Data Frame <br/>
 Filtering/Subsetting Data Frames <br/>
-Plotting graphs - scatter plot, Histomgram, Linear regression, Density plots <br/>
+Plotting graphs - scatter plot, Histogram, Linear regression, Density plots <br/>
 Changing graph aesthetics/specifications <br/>
