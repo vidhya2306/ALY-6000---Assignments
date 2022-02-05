@@ -15,7 +15,7 @@ Filtering/Subsetting Data Frames <br/>
 Plotting graphs - scatter plot, Histogram, Linear regression, Density plots <br/>
 Changing graph aesthetics/specifications
 
-## Murugan_M2_Project2
+## Murugan_M3_Project3
 Using table() and data.frame() functions <br/>
 Plotting Bar graph <br/>
 Adding Pareto line to existing bar chart <br/>
