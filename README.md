@@ -13,4 +13,10 @@ Descriptive statistics
 Displaying top and bottom n rows in a Data Frame <br/>
 Filtering/Subsetting Data Frames <br/>
 Plotting graphs - scatter plot, Histogram, Linear regression, Density plots <br/>
-Changing graph aesthetics/specifications <br/>
+Changing graph aesthetics/specifications
+
+## Murugan_M2_Project2
+Using table() and data.frame() functions <br/>
+Plotting Bar graph <br/>
+Adding Pareto line to existing bar chart <br/>
+Changing Bar graph and Pareto chart aesthetics/specifications
